@@ -1,0 +1,20 @@
+body
+{
+  background-color:skyblue;
+}
+hr
+{
+border-style:none;
+border-top-style:dotted;
+border-color:grey;
+border-width:5PX;
+width:2%;
+}
+h1
+{
+  color:#D6E5FA;
+}
+h3
+{
+color:#D6E5FA;  
+}
